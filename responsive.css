@@ -1,0 +1,87 @@
+
+
+/*==============big devices============*/
+@media only screen and (min-width: 1071px) and (max-width: 1530px) {
+    header{
+        padding: 0px 0%;
+        transition: .5s;
+        box-shadow: rgba(0, 0, 0, 0.357);
+    }
+}
+/*===============ipad tablet========*/
+
+@media only screen and (min-width: 991px) and (max-width: 1070px)
+{
+   header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 0%;
+  background: transparent;
+   
+   }
+   .navbar-nav{
+    
+   }
+
+   header .container {
+    
+   }
+   .navbar button{
+     
+   }
+   .sign a{ 
+}
+     
+}
+
+/*============mobile================*/
+
+
+@media only screen and (min-width: 768px) and (max-width: 990px)
+{
+    /*nav button and ul*/
+    .navbar-toggler{
+        border: none;
+        box-shadow: none;
+    }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media  only screen and (min-width: 320px) and (max-width: 480px)
+
+{
+
+}
+
